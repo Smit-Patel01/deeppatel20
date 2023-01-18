@@ -3,9 +3,9 @@
 
 - 🔭 I’m actively seeking full-time position in IT industry
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Angular JS**
 
-- 💬 Ask me about **JavaScript, HTML5, CSS, React, Java, JSP, Springboot, MySQL**
+- 💬 Ask me about **JavaScript, jQuery, HTML5, CSS, React JS, Java, JSP, Hibernate, Spring(boot), MySQL**
 
 - 📫 How to reach me **imdeepspatel@gmail.com**
 
