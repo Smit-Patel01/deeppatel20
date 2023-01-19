@@ -14,7 +14,7 @@
 ## 💻Projects
 
 <a href="https://github.com/deeppatel20/TaskTracker"><img src="https://github.com/deeppatel20/deeppatel20/blob/main/TaskTracker.gif" width="300"></a>|
-<a href="https://github.com/deeppatel20/PizzaApp"><img src="https://github.com/deeppatel20/deeppatel20/blob/main/PizzaApp.gif" width="270"></a>|
+<a href="https://github.com/deeppatel20/PizzaApp"><img src="https://github.com/deeppatel20/deeppatel20/blob/main/PizzaApp.gif" width="260"></a>|
 <a href="https://github.com/deeppatel20/ProducerConsumer"><img src="https://github.com/deeppatel20/deeppatel20/blob/main/ProducerConsumer.gif" width="200"></a>|
 <a href="https://github.com/deeppatel20/TxnfileApp"><img src="https://github.com/deeppatel20/deeppatel20/blob/main/TransactionFileRecordSegregation.gif"></a>
 
