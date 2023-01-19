@@ -13,7 +13,7 @@
 
 ### 💻Projects
 
-<img src="https://github.com/deeppatel20/deeppatel20/blob/main/TaskTracker.gif" width="254">
+<img src="https://github.com/deeppatel20/TaskTracker/blob/master/TaskTracker.gif" width="254">
 
 <p align="left">
 </p>
