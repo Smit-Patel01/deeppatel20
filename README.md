@@ -14,7 +14,7 @@
 ## 💻Projects
 
 <a href="https://github.com/deeppatel20/TaskTracker"><img src="https://github.com/deeppatel20/deeppatel20/blob/main/TaskTracker.gif" width="254"></a>|
-<a href="https://github.com/deeppatel20/PizzaApp"><img src="https://github.com/deeppatel20/deeppatel20/blob/main/Pizza%20Pizza.gif" width="350"></a>
+<a href="https://github.com/deeppatel20/PizzaApp"><img src="https://github.com/deeppatel20/deeppatel20/blob/main/Pizza%20Pizza.gif" width="450"></a>
 
 
 <p align="left">
