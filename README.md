@@ -9,9 +9,9 @@
 
 - 📫 How to reach me **imdeepspatel@gmail.com**
 
-- ⚡ Fun fact **I love crunchy snacks along with my breakfast, lunch, and dinner**
+- ⚡ Fun fact **I love crunchy snacks along with my breakfast, lunch, and dinner** <br/>
 
-### 💻Projects
+## 💻Projects
 
 <a href="https://github.com/deeppatel20/TaskTracker"><img src="https://github.com/deeppatel20/deeppatel20/blob/main/TaskTracker.gif" width="254"></a>|
 <a href="https://github.com/deeppatel20/PizzaApp"><img src="https://github.com/deeppatel20/deeppatel20/blob/main/Pizza%20Pizza.gif" width="350"></a>
