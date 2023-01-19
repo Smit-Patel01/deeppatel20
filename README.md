@@ -11,6 +11,8 @@
 
 - ⚡ Fun fact **I love crunchy snacks along with my breakfast, lunch, and dinner**
 
+### 💻Projects
+
 <img src="https://github.com/deeppatel20/deeppatel20/blob/main/TaskTracker.gif" width="254">
 
 <p align="left">
