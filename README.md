@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Angular JS**
 
-- 💬 Ask me about **Java, JSP, Hibernate, Spring(boot), MySQL JavaScript, jQuery, HTML5, CSS, React JS**
+- 💬 Ask me about **Java, Hibernate, Spring(boot), Microservices, MySQL JavaScript, jQuery, HTML5, CSS, React JS**
 
 - 📫 How to reach me **imdeepspatel@gmail.com**
 
