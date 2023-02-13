@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Java, Hibernate, Spring(boot), Microservices, MySQL, JavaScript, jQuery, HTML5, CSS, React JS**
 
-- 📫 How to reach me **deeppatel21906@gmail.com** 
+- 📫 How to reach me **deeppatel21906@gmail.com**
 
 - ⚡ Fun fact **I love crunchy snacks along with my breakfast, lunch, and dinner** <br/>
 
